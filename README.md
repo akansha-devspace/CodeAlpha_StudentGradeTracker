@@ -119,4 +119,5 @@ Lowest score   : 85.50 (Aarav Sharma)
 
 ## Author
 
-Akansha | B-Tech CSE Student 
+Akansha | B-Tech CSE Student |
+Submitted as part of the CodeAlpha Java Virtual Internship Program, Batch 2026
